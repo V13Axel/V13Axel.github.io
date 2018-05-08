@@ -95,7 +95,7 @@ h1, .tagline {
         max-width: 60%;
         max-height: 60%;
         width: fit-content;
-        padding: 6em 0;
+        margin: 6em 0;
     }
 
     h1 {
